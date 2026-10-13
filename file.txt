@@ -1,3 +1,5 @@
 i am lavanya, building the jenkins webhook, 
 
 i am trying to connect jenkins and webhook
+
+now i am learning the poll scm and periadically connecting
