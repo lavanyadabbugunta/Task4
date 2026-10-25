@@ -4,3 +4,4 @@ i am trying to connect jenkins and webhook
 
 now i am learning the poll scm and periadically connecting
 webhooks are worked or not
+scheduled the poll scm
